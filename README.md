@@ -1,4 +1,5 @@
-![EGC 2023](https://egc2023.sciencesconf.org/data/pages/logo_2.jpg)
+
+<img src="https://egc2023.sciencesconf.org/data/pages/logo_2.jpg" alt="EGC 2023" width="200px"/>
 
 # Démonstration - Perdido Geoparser - EGC 2023 
 
