@@ -18,7 +18,7 @@ Nous expérimenterons le geoparsing et le geocoding au travers deux études de c
  3. Créer et afficher une carte à partir d'un texte
 
 
-Vous pouvez exécuter le notebook à distance en utilisant [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]() ou  [![Binder](https://mybinder.org/badge_logo.svg)]().
+Vous pouvez exécuter le notebook à distance en utilisant [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ludovicmoncla/demo-perdido-egc-2023/main?labpath=notebook-demo-perdido-egc.ipynb) ou [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/ludovicmoncla/demo-perdido-egc-2023/blob/main/notebook-demo-perdido-egc.ipynb).
 Sinon, pour exécuter ce tutoriel depuis un environnement local sur votre ordinateur, vous pouvez suivre les instructions ci-dessous. 
 
 ## Installer conda
