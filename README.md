@@ -3,9 +3,7 @@
 
 # Démonstration - Perdido Geoparser - EGC 2023 
 
-
-Cette démonstration s'appuie sur le tutoriel présenté lors de l'atelier [Librairies Python et Services Web pour la reconnaissance d’entités nommées et la résolution de toponymes](https://anf-tdm-2022.sciencesconf.org/resource/page/id/11) de la formation CNRS [ANF TDM 2022](https://anf-tdm-2022.sciencesconf.org).
-Elle présente la librairie Python [Perdido](https://github.com/ludovicmoncla/perdido) pour le geoparsing et le geocoding de textes en français. Nous montrons en particulier comment utiliser `Perdido` pour la reconnaissance des entités nommées (*Named Entity Recognition*) et la résolution de toponymes (*Geocoding*). 
+Cette démonstration présente la librairie Python [Perdido](https://github.com/ludovicmoncla/perdido) pour le geoparsing et le geocoding de textes en français. Nous montrons en particulier comment utiliser `Perdido` pour la reconnaissance des entités nommées (*Named Entity Recognition*) et la résolution de toponymes (*Geocoding*). 
 
 Nous expérimenterons le geoparsing et le geocoding au travers deux études de cas : le traitement d'articles encyclopédiques (corpus issu du projet [GEODE](https://geode-project.github.io)) et le traitement de descriptions de randonnées (corpus issu du projet [ANR CHOUCAS](http://choucas.ign.fr)).
 
