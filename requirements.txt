@@ -1,3 +1,3 @@
 jupyter
 spacy==3.4.1
-perdido==0.1.33
+perdido==0.1.34
